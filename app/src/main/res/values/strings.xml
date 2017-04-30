@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">DrawAndGuess</string>
+    
+    <string name="free_type">自由</string>
+    <string name="point_type">画点</string>
+    <string name="line_type">直线</string>
+    <string name="curve_type">曲线</string>
+
+    <string name="color">颜色</string>
+    <string name="line_width">粗细</string>
+    <string name="delete_last">回退</string>
+    <string name="clear_screen">清屏</string>
+
+    <string name="color_title">选择颜色</string>
+    <string name="pen_width_title">设定画笔粗细</string>
+
+    <string name="chose">选中</string>
+</resources>
